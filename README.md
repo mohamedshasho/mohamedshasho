@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedshasho&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedshasho" /> </p>
 
-- 🌱 I’m currently learning **Modern Android Development Skills**
+- 🌱 Software Engineer with 2+ years of experience as a Mobile Developer focused on **Android technologies** and cross-platform development.
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/developer?id=M.Shasho](https://play.google.com/store/apps/developer?id=M.Shasho)
+- 😀 I'm interested in staying up-to-date on the latest Android trends and technologies.
 
-- 💬 Ask me about **Software, Android**
+- 👨‍💻 All of my projects are available at [Google Play](https://play.google.com/store/apps/developer?id=M.Shasho)
+
+- 💬 Feel free to ask me about **Software, Android**
 
 - 📫 How to reach me **mohamedshasho1@gmail.com**
 
