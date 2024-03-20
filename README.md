@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammad Shasho</h1>
-<h3 align="center">Android Developer</h3>
+<h3 align="center">Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedshasho&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedshasho" /> </p>
 
 - 🌱 Software Engineer with 2+ years of experience as a Mobile Developer focused on **Android technologies** and cross-platform development.
 
-- 😀 I'm interested in staying up-to-date on the latest Android trends and technologies.
+- 😀 I'm interested in staying up-to-date on the latest mobile trends and technologies.
 
 - 👨‍💻 All of my projects are available at [Google Play](https://play.google.com/store/apps/developer?id=M.Shasho)
 
